@@ -2,7 +2,7 @@
 一个查询天气的命令行工具
 ##使用方法：
 
-```weather```
+<pre>weather</pre>
 ###生成本地天气情况
-```weather 上海```
+<pre>weather 上海</pre>
 ###生成查询城市天气情况
